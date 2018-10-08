@@ -1,0 +1,88 @@
+.header{
+	background-color: white;
+	color: black;
+	border: black 2px solid;
+	height: 100px;
+}
+.header1{
+	float:left;
+	width: 22%
+}
+.header1-1{
+	padding-top: 13px;
+	padding-left: 70%;
+	width: 100%;
+}
+.img{
+	width: 20%
+}
+.header2{
+	float: left;
+	width: 70%
+}
+.header2-1{
+	font-size: x-large;
+	padding-top: 20px;
+}
+.header3{
+	float: right;
+	width: 28%;
+	padding-right: 10%;
+}
+.header3-1{
+	border-right: black 2px solid;
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+.content{
+	background-color: #66a4dc;
+	border: black 2px solid;
+	border-top: black 0px solid;
+	height: 85px;
+}
+.content-a{
+	color: white;
+	text-align: center;
+	padding-top: 22px;
+	font-size: large;
+	font-style: italic;
+}
+.content-b{
+	color: white;
+	font-size: large;
+	padding-left: 65%;
+}
+.main{
+	background-color: white;
+	border-left: black 2px solid;
+	border-right: black 2px solid;
+	padding-top: 3%;
+	padding-left: 15%;
+	padding-bottom: 5%;
+	height: 430px;
+}
+.product{
+	float: left;
+	width: 25%;
+	margin-right: 7%;
+	margin-bottom: 7%
+}
+.img1{
+	width: 100%
+}
+a{
+	color: blue;
+	font-size: larger;
+}
+.clear-both {
+	clear: both;
+}
+.footer{
+	color: white;
+	background-color: #78a1c7;
+	border: black 2px solid;
+	text-align: center;
+	height: 30px;
+	padding-top: 10px;
+}
