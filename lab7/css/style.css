@@ -1,0 +1,50 @@
+header{
+	position: fixed;
+	background-color: #eaf2ff;
+	border: 2px solid black;
+	float: left;
+	width: 100%;
+}
+.header-img{
+	padding-left: 100px;
+	float: left;
+}
+.img{
+	width: 20%;
+}
+.clear-both {
+	clear: both;
+}
+.header-1{
+	padding-top: 15px;
+	float: right;
+	padding-right: 260px;
+}
+.content{
+	border: black 2px solid;
+	border-top-width: 0px;
+	float: left ;
+	width: 100%;
+}
+.main{
+	width: 25%;
+	margin: 10px 30px 40px 30px;
+	display: inline-block;
+}
+.Scroll{
+	position: fixed;
+	bottom: 50px;
+	border-radius: 9px;
+	padding: 4px;
+	background-color: #6fa8dc;
+	right: 20px;
+	border: black 2px solid;
+}
+footer{
+	background-color: #6fa8dc;
+	border: 2px solid black;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding: 5px;
+}
